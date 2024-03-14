@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398688401818",
+    "project_id": "hridoy-ecc48",
+    "storage_bucket": "hridoy-ecc48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398688401818:android:ab769b169cb3ff1a6ee223",
+        "android_client_info": {
+          "package_name": "com.example.khela_hobe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIwiy1fIo3IXABIbJjlUr08zkI2bATPxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
